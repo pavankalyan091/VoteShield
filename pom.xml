@@ -12,7 +12,7 @@
     <groupId>com.election</groupId>
     <artifactId>voteshield</artifactId>
     <version>1.0.0</version>
-    <n>VoteShield Backend</n>
+    <name>VoteShield Backend</name>
     <description>VoteShield - Professional Online Election System</description>
     <properties>
         <java.version>25</java.version>
